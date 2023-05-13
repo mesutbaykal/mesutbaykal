@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mesutbaykal
 - 👀 I’m interested in anything related to science
-- 🌱 I’m currently learning software functional testing tools and programming languages
+- 🌱 I’m currently learning tools and programming languages for develop and test software
 - 💞️ I’m looking to collaborate on anything useful:)
 - 📫 Please contact me via this platform or baykalmesut@hotmail.com
 
